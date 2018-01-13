@@ -26,3 +26,12 @@ public class CaseCharacter{
 	}
 	
 }
+
+/*
+Output:-
+
+Enter a character
+A
+Character is Upper case
+
+*/
